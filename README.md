@@ -21,7 +21,7 @@ Setup
 Grab the code and install what you need:
 
 bash
-git clone [repo-url]
+git clone [repo-url](https://github.com/NavinduKojitha/EnergyPredic.git)]
 pip install -r requirements.txt
 Run It
 Fire up Jupyter or use Colab for zero-hassle testing:
