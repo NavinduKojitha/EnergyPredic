@@ -1,4 +1,5 @@
 🏠 Predicting Home Appliance Energy Use with Deep Learning
+
 Ever wonder how much power your appliances consume based on your home environment?
 I tackled that exact question by analyzing time-series sensor data to forecast energy usage using deep learning and traditional ML methods.
 
@@ -6,7 +7,6 @@ I tackled that exact question by analyzing time-series sensor data to forecast e
 I worked with a synthetic dataset that mimics real-world home conditions:
 
 5 months of 10-minute interval readings (Jan–May 2016)
-
 Tracks appliance energy use (in Wh) alongside:
 
 Temperature & humidity readings
